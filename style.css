@@ -1,10 +1,13 @@
 .body{
-    background-color:#202020;
-    color:#ffffff;
+    color:#202020;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+}
+.p{
+    color: #ffffff;    
 }
 
 .RC:link {
