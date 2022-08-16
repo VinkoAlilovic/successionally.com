@@ -5,8 +5,12 @@ body{
     /*#ffde59*/
 }
 
+.p{
+    color:#E6E6E6;
+}
+
 ::selection{
-    color:#ffde59;
+    color:#202020;
     background:#ffffff ;
 }
 
