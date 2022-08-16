@@ -43,3 +43,73 @@ h1{
     text-decoration: none;
 }
 
+.AP:link{
+    font-size:large;
+    position: absolute;
+    left:130px;
+    top:30px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+    transition-duration: 0.4s;
+}
+
+.AP:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.AP:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.LB:link{
+    font-size:large;
+    position: absolute;
+    left:230px;
+    top:30px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+    transition-duration: 0.4s;
+}
+
+.LB:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.LB:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.CC:link{
+    font-size:large;
+    position: absolute;
+    left:330px;
+    top:30px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+    transition-duration: 0.4s;
+}
+
+.CC:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.CC:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
