@@ -2,7 +2,6 @@ body{
     background-color: #202020;
     color: #ffffff;
     text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: medium;
 }
 
@@ -23,6 +22,114 @@ body{
 }
 
 .RC:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+.AP:link {
+    position:absolute;
+    top: 130px;
+    left:30px;
+    transition-duration: 0.4s;
+    color:#ffde59;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.AP:visited {
+    color:#bfa641;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.AP:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+.cc:link {
+    position:absolute;
+    top: 230px;
+    left:30px;
+    transition-duration: 0.4s;
+    color:#ffde59;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.cc:visited {
+    color:#bfa641;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.cc:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+.lb:link {
+    position:absolute;
+    top: 330px;
+    left:30px;
+    transition-duration: 0.4s;
+    color:#ffde59;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.lb:visited {
+    color:#bfa641;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.lb:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+.sm:link {
+    position:absolute;
+    top: 430px;
+    left:30px;
+    transition-duration: 0.4s;
+    color:#ffde59;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.sm:visited {
+    color:#bfa641;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.sm:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+.ct:link {
+    position:absolute;
+    top: 550px;
+    left:30px;
+    transition-duration: 0.4s;
+    color:#ffde59;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.ct:visited {
+    color:#bfa641;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.ct:hover{
     color: white;
     background-color:transparent;
     text-decoration: none;
