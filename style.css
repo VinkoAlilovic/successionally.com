@@ -5,7 +5,7 @@ body{
 }
 
 .RC:link{
-    font-size:x-large;
+    font-size:large;
     position: absolute;
     left:30px;
     top:30px;
@@ -22,6 +22,29 @@ body{
 }
 
 .RC:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.AP:link{
+    font-size:large;
+    position: absolute;
+    left:30px;
+    top:130px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+    transition-duration: 0.4s;
+}
+
+.AP:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.AP:hover{
     color:#ffde59;
     background-color: transparent;
     text-decoration: none;
