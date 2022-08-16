@@ -5,12 +5,14 @@ body{
 }
 
 .RC:link{
+    size: 30px;
     position: absolute;
     left:30px;
     top:30px;
     color: #ffffff;
     background-color: transparent;
     text-decoration:none;
+    transition-duration: 0.4s;
 }
 
 .RC:visited{
