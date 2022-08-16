@@ -21,7 +21,7 @@ h1{
 }
 
 .RC:link{
-    font-size:large;
+    font-size:medium;
     position: absolute;
     left:30px;
     top:30px;
@@ -44,7 +44,7 @@ h1{
 }
 
 .AP:link{
-    font-size:large;
+    font-size:medium;
     position: absolute;
     left:30px;
     top:60px;
@@ -67,7 +67,7 @@ h1{
 }
 
 .LB:link{
-    font-size:large;
+    font-size:medium;
     position: absolute;
     left:30px;
     top:90px;
@@ -90,7 +90,7 @@ h1{
 }
 
 .CC:link{
-    font-size:large;
+    font-size:medium;
     position: absolute;
     left:30px;
     top:120px;
