@@ -1,6 +1,6 @@
 .body{
     background-color:#202020;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff
 }
 .h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -12,8 +12,8 @@
 
 .RC:link {
     position:absolute;
-    top: 500px;
-    left:1000px;
+    top: 30px;
+    left:100px;
     transition-duration: 0.4s;
     color: #ffde59;
     background-color:transparent;
