@@ -4,8 +4,23 @@ body{
     #ffde59
 }
 
-.RC{
+.RC:link{
     position: absolute;
     left:30px;
-    top:30px
+    top:30px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+}
+
+.RC:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.RC:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
 }
