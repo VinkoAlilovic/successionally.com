@@ -4,10 +4,12 @@ body{
     /*#ffde59*/
     font-family: "Lato", sans-serif;
     transition: #202020 .5s;
+    text-align: center;
 }
 
 p{
     color:#E6E6E6;
+    text-align: center;
 }
 
 ::selection{
