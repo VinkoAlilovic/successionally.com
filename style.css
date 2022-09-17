@@ -66,7 +66,7 @@ h1{
     text-decoration: none;
 }
 
-.LB:link{
+.TE:link{
     font-size:medium;
     position: absolute;
     left:30px;
@@ -77,19 +77,19 @@ h1{
     transition-duration: 0.4s;
 }
 
-.LB:visited{
+.TE:visited{
     color: #dadada;
     background-color:transparent;
     text-decoration:none;
 }
 
-.LB:hover{
+.TE:hover{
     color:#ffde59;
     background-color: transparent;
     text-decoration: none;
 }
 
-.CC:link{
+.TE:link{
     font-size:medium;
     position: absolute;
     left:30px;
@@ -100,16 +100,38 @@ h1{
     transition-duration: 0.4s;
 }
 
-.CC:visited{
+.TE:visited{
     color: #dadada;
     background-color:transparent;
     text-decoration:none;
 }
 
-.CC:hover{
+.TE:hover{
     color:#ffde59;
     background-color: transparent;
     text-decoration: none;
 }
 
+.TE:link{
+    font-size:medium;
+    position: absolute;
+    left:30px;
+    top:120px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration:none;
+    transition-duration: 0.4s;
+}
+
+.TE:visited{
+    color: #dadada;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.TE:hover{
+    color:#ffde59;
+    background-color: transparent;
+    text-decoration: none;
+}
 
