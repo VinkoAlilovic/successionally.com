@@ -71,7 +71,7 @@ h1{
 .ES:link{
     font-size:medium;
     position: absolute;
-    left:5000px;
+    right:5000px;
     top:200px;
     color: #ffffff;
     background-color: transparent;
