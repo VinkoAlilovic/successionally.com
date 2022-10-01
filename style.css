@@ -3,11 +3,16 @@ body{
 }
 
 p{
-    color: black;
-    position: center;
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
 }
 
 h1{
-    color: black;
-    position: center;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    text-align: center;
 }
