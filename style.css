@@ -1,24 +1,24 @@
 body{
-    background-color: #202020;
+    background-color:white;
     /*#ffffff*/
     /*#ffde59*/
     font-family: "Lato", sans-serif;
-    transition: #202020 .5s;
+    transition: yellow .5s;
     text-align: center;
 }
 
 p{
-    color:#E6E6E6;
+    color: black;
     text-align: center;
     font-size: medium;
 }
 
 ::selection{
-    color:#202020;
-    background:#ffde59 ;
+    color: yellow;
+    background:black ;
 }
 h1{
-    color:#ffffff;
+    color:black;
     text-align:center;
 }
 
@@ -27,20 +27,20 @@ h1{
     position: absolute;
     left:30px;
     top:30px;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     text-decoration:none;
     transition-duration: 0.4s;
 }
 
 .RC:visited{
-    color: #dadada;
+    color: black;
     background-color:transparent;
     text-decoration:none;
 }
 
 .RC:hover{
-    color:#ffde59;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
 }
@@ -50,20 +50,20 @@ h1{
     position: absolute;
     left:30px;
     top:60px;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     text-decoration:none;
     transition-duration: 0.4s;
 }
 
 .AP:visited{
-    color: #dadada;
+    color: black;
     background-color:transparent;
     text-decoration:none;
 }
 
 .AP:hover{
-    color:#ffde59;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
 }
@@ -73,20 +73,20 @@ h1{
     position: absolute;
     right:50%;;
     top:20%;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     text-decoration:none;
     transition-duration: 0.4s;
 }
 
 .ES:visited{
-    color: #dadada;
+    color: black;
     background-color:transparent;
     text-decoration:none;
 }
 
 .ES:hover{
-    color:#ffde59;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
 }
@@ -96,20 +96,20 @@ h1{
     position: absolute;
     left:30px;
     top:120px;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     text-decoration:none;
     transition-duration: 0.4s;
 }
 
 .TE:visited{
-    color: #dadada;
+    color: black;
     background-color:transparent;
     text-decoration:none;
 }
 
 .TE:hover{
-    color:#ffde59;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
 }
@@ -119,20 +119,20 @@ h1{
     position: absolute;
     left:30px;
     top:120px;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     text-decoration:none;
     transition-duration: 0.4s;
 }
 
 .TE:visited{
-    color: #dadada;
+    color: black;
     background-color:transparent;
     text-decoration:none;
 }
 
 .TE:hover{
-    color:#ffde59;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
 }
