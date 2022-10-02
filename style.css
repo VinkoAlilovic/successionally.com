@@ -1,12 +1,13 @@
 
 head{
-    text-align: left;
-    font-family: 'Times New Roman', Times, serif;
     position: absolute;
-    top: 5%; 
+    top: 5%;
+    width: 5%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
 body{
     background-color: #FAFAFA;
+    
 }
