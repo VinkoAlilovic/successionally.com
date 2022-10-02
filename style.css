@@ -1,16 +1,135 @@
-
-
-head{
+.title{
   position: absolute;
-  height: 5%;
-  text-indent: 20%;
-  
+  top: 1%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
 }
 
-body {
-    width: 100%;
-    height: 5%;
-    border: 1px solid white;
-    padding: 5px;
-    box-shadow: 1px 3px #cecece;
-  }
+.mid{
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  transform: translateX(-50%);
+  font-size: x-large;
+}
+
+.ig{
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: gray;
+  background-color:transparent;
+  text-decoration: none;
+}
+
+.ig:hover{
+  color: black;
+  background-color:transparent;
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+
+.ig:visited{
+  color: gray;
+  background-color:transparent;
+  text-decoration: none;
+}
+
+.tt{
+  position: absolute;
+  top: 35%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: gray;
+  background-color:transparent;
+  text-decoration: none;
+}
+
+.tt:hover{
+  color: black;
+  background-color:transparent;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.tt:visited{
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.yt{
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.yt:hover{
+  color: black;
+  background-color:transparent;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.yt:visited{
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+.tw{
+  position: absolute;
+  top: 45%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.tw:hover{
+  color: black;
+  background-color:transparent;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.tw :visited{
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.oe{
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: gray;
+  background-color:transparent;
+  text-decoration: none;
+}
+
+.oe{
+  color: black;
+  background-color:transparent;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.oe{
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
